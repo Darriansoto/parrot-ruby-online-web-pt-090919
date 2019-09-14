@@ -3,7 +3,6 @@ def parrot(name = "Squawk!")
   "Pretty bird!"
 end
 
-"Squawk!"
 parrot
 
 parrot("Pretty bird!")
