@@ -5,3 +5,4 @@ def parrot(name = "Squawk!")
 end
 
 parrot("Pretty bird!")
+  return "Pretty bird!"
